@@ -19,9 +19,12 @@
 # Bekerja dengan Data
 - [Array]()
 - [Tuples]()
+- [Slices]()
 - [Mengubah Elemen pada Array]()
 - [Enum]()
 - [Struct]()
+- [Vector]()
+- [HashMap]()
 # Perulangan
 - [For]()
 - [Vector dan Perulangan For]()
