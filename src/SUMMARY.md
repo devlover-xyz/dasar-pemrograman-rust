@@ -2,6 +2,7 @@
 
 # Pendahuluan
 - [Pendahuluan](./pendahuluan/pendahuluan.md)
+- [Developer Tools](./pendahuluan/developer_tools.md)
 - [Instalasi Rust, VS Code, Halo Dunia](./pendahuluan/instalasi_rust.md)
 - [Memahami Sintaks dasar Rust](./pendahuluan/sintaks_dasar.md)
 
