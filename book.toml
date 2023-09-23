@@ -4,3 +4,6 @@ language = "id"
 multilingual = false
 src = "src"
 title = "Dasar-Dasar Pemrograman Rust: Panduan untuk Pemula"
+
+[output.html.playground]
+editable = true

@@ -5,7 +5,8 @@
 - [Developer Tools](./pendahuluan/developer_tools.md)
 - [Instalasi Rust, VS Code, Halo Dunia](./pendahuluan/instalasi_rust.md)
 - [Memahami Sintaks dasar Rust](./pendahuluan/sintaks_dasar.md)
-
+  - [Menulis Komentar](./pendahuluan/komentar.md)
+  - [Menformat Print](./pendahuluan/formatted_print.md)
 # Fungsi, Kondisi If dan Match
 - [Fungsi Input dan Output]()
 - [Kondisi If]()
