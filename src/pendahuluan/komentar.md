@@ -1,12 +1,13 @@
 # Menulis Komentar
 
-Any program requires comments, and Rust supports
-a few different varieties:
+Comments / Komentar berguna untuk dibaca oleh programmer, bukan untuk komputer. Adalah hal yang baik untuk menulis komentar agar orang lain menjadi mudah untuk membaca code yang telah dibuat. Hal ini juga bagus untuk membantu diri kita sendiri mengerti code yang telah kita buat. (Banyak orang yang sudah menulis code programnya dengan mantap, namun seiring waktu berjalan, dan dia mulai membaca lagi code yang sudah lama sudah tidak dia sentuh, mereka lupa mengapa mereka menulis bagian tersebut.)
 
-* *Regular comments* which are ignored by the compiler:
+Setiap program memerlukan komentar, dan Rust mendukung beberapa variasi yang berbeda:
+
+* *Regular comments* yang diabaikan oleh kompiler:
   * `// Line comments which go to the end of the line.`
   * `/* Block comments which go to the closing delimiter. */`
-* *Doc comments* which are parsed into HTML library [documentation][docs]:
+* *Doc comments* yang diparsing menjadi perpustakaan HTML. [documentation][]:
   * `/// Generate library docs for the following item.`
   * `//! Generate library docs for the enclosing item.`
 

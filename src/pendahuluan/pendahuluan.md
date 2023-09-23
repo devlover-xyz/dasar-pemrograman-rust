@@ -70,17 +70,3 @@ Belajar Rust memiliki beberapa alasan:
 **Keamanan**: Memahami Rust membantu Anda menjadi pemrogram yang lebih baik dengan mengajarkan praktik yang baik untuk menulis kode yang aman dan andal.
 
 **Fleksibilitas**: Fleksibilitas Rust berarti Anda dapat menggunakannya untuk berbagai aplikasi, mulai dari pengembangan web hingga membangun sistem operasi.
-
-
-## Memulai dengan Rust
-
-Untuk memulai perjalanan Anda dengan Rust, Anda perlu menginstal bahasa pemrograman Rust di komputer Anda. Anda dapat menemukan petunjuk instalasi di situs web resmi Rust (https://www.rust-lang.org/). Setelah diinstal, Anda dapat mulai menulis dan menjalankan program Rust.
-
-Sebagai kesimpulan, Rust adalah bahasa pemrograman yang luar biasa yang menggabungkan kinerja tinggi dengan keamanan dan sintaksis modern. Apakah Anda tertarik pada pemrograman sistem tingkat rendah atau membangun aplikasi yang kokoh dan konkuren, Rust memiliki banyak yang ditawarkan. Embrasilah proses belajar, jelajahi fiturnya yang unik, dan Anda akan menemukan potensi besar yang dimiliki Rust untuk usaha pemrograman Anda.
-
-Selamat datang dalam dunia pemrograman Rust, di mana Anda akan memulai perjalanan penguasaan dan inovasi.
-
-Jangan ragu untuk menjelajahi lebih dalam tentang Rust dan menjelajahi berbagai aspeknya saat Anda memulai perjalanan pemrograman Anda. Jika Anda memiliki pertanyaan khusus atau topik yang ingin Anda eksplorasi lebih lanjut, jangan ragu untuk bertanya.
-
-sumber:
-https://academy.alterra.id/blog/belajar-rust-pengertian-sejarah/
